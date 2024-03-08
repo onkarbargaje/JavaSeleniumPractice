@@ -1,10 +1,21 @@
 package learning;
- class  SuperCalling1 
+class SuperCalling0
+{
+	SuperCalling0(int a)
+    {
+	   System.out.println("0");
+	   
+    }
+	
+}
+ class  SuperCalling1 extends SuperCalling0
  {
 	 
      SuperCalling1()
     {
+    	 super(1);
 	   System.out.println("1");
+	   
     }
 }
  
