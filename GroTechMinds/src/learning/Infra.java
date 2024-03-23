@@ -2,8 +2,13 @@ package learning;
 
 public class Infra 
 {
+	//public static int b;
+	//b=20;
 	Infra()
 	{
+		int a;
+		//a=20;
+		System.out.println(a);
 		
 	}
 

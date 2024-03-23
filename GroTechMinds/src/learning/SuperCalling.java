@@ -15,6 +15,7 @@ class SuperCalling0
     {
     	 super(1);
 	   System.out.println("1");
+	   //super(1);
 	   
     }
 }

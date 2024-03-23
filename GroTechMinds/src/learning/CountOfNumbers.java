@@ -10,7 +10,7 @@ public class CountOfNumbers
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Please enter the number");
 		
-		StringBuffer sb= new StringBuffer();
+		TwoDimArray sb= new TwoDimArray();
 		//int in=sb.length(sb);
 		System.out.println(sb.length());
 		
