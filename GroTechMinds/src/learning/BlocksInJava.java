@@ -28,6 +28,7 @@ public class BlocksInJava
 	{
 		System.out.println("I am from main method");
 		BlocksInJava b1= new BlocksInJava();
+		
 		add();
 	}
 
