@@ -8,7 +8,7 @@ public class CharacterOccurenceSpecific {
        String s= "Onkar Shashikant Bargaje";
        int totalCount= s.length();
        
-       int totalCountAfterRemove=s.replace("a", "").length();
+       int totalCountAfterRemove=s.replace("e", "").length();
        
        int count=totalCount-totalCountAfterRemove;
        
